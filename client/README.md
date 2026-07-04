@@ -1,16 +1,25 @@
-# React + Vite
+# HelpDesk Pro 🎫
+AI-Powered Help Desk Ticket Management System built with MERN Stack.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🛠️ Tech Stack
+- **MongoDB** — Cloud database (Atlas)
+- **Express.js** — Backend REST API
+- **React.js** — Frontend (Vite)
+- **Node.js** — Runtime environment
+- **JWT** — Authentication
 
-Currently, two official plugins are available:
+## ✨ Features
+- Role-based access (User & Admin)
+- Create, track, and manage support tickets
+- Priority levels (Low, Medium, High, Critical)
+- Category selection (Technical, Billing, General, Feature Request)
+- Status tracking (Open → In Progress → Resolved → Closed)
+- Dashboard with real-time ticket stats
+- Filter tickets by status
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 👩‍💻 Developer
+**Priyadharshini K** — Final Year B.Tech AI & Data Science
+Muthayammal Engineering College, Rasipuram
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔗 GitHub
+github.com/Priyakrishnamoorthi-cmd/helpdesk-pro
